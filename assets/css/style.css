@@ -225,3 +225,18 @@ footer{
     padding:5%;
     color: #777777;
 }
+
+/*-----------------------------gallery page*/
+
+#photo{
+    clear: both;
+    line-height: 0;
+    column-gap: 0px;
+    column-count: 4;
+    
+}
+
+#photo img{
+    width:100%;
+}
+
